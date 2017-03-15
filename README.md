@@ -3,7 +3,7 @@
 NOTE: This project is currently underconstruction. I will upload files one by one as soon it gets completed.
 
 ## Final Version of Part 1 would be something like this.
-### This picture will be updated as soon as final version is ready to go.
+##### This picture will be updated as soon as final version is ready to go.
 
   In this version you can select any shape / color / size of your choice. You can also drag it / delete it / copy paste it.
 
